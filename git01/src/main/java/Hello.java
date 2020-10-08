@@ -7,5 +7,9 @@ public class Hello {
         System.out.println("Hello World!----git-test");
         System.out.println("Hello World!----git-test");
         System.out.println("Hello World!----git-test");
+        System.out.println("Hello World!----git-test");
+        System.out.println("Hello World!----git-test02");
+        System.out.println("Hello World!----git-test02");
+        System.out.println("Hello World!----git-test02");
     }
 }
